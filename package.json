@@ -1,0 +1,23 @@
+{
+  "name": "@tw1np1ne/design-tokens-poc",
+  "version": "1.0.0",
+  "description": "POC Design Tokens",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tw1np1ne/design-tokens-poc.git"
+  },
+  "keywords": [
+    "Design",
+    "tokens"
+  ],
+  "author": "Russ Kirby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tw1np1ne/design-tokens-poc/issues"
+  },
+  "homepage": "https://github.com/tw1np1ne/design-tokens-poc#readme"
+}
